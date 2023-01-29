@@ -75,4 +75,6 @@ lvim.plugins = {
 		dependencies = { "nvim-treesitter" },
 		opts = {},
 	},
+
+	{ "theprimeagen/harpoon" },
 }

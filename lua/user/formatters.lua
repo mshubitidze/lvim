@@ -14,4 +14,5 @@ formatters.setup({
 		},
 	},
 	{ command = "black" },
+	{ command = "rustfmt" },
 })
