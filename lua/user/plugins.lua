@@ -23,6 +23,8 @@ lvim.plugins = {
 		name = "rose-pine",
 	},
 
+	{ "Shatur/neovim-ayu" },
+
 	{ "nyoom-engineering/oxocarbon.nvim" },
 
 	{ "rebelot/kanagawa.nvim" },
@@ -30,6 +32,8 @@ lvim.plugins = {
 	{ "catppuccin/nvim", name = "catppuccin" },
 
 	{ "EdenEast/nightfox.nvim" },
+
+	{ "folke/tokyonight.nvim" },
 
 	{
 		"norcalli/nvim-colorizer.lua",

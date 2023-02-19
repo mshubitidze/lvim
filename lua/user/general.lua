@@ -9,7 +9,7 @@ lvim.format_on_save = {
 -- lvim.use_icons = false
 
 -- Change theme settings
-lvim.colorscheme = "carbonfox"
+lvim.colorscheme = "nightfox"
 
 lvim.builtin.alpha.active = true
 lvim.builtin.alpha.mode = "dashboard"

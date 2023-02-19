@@ -11,8 +11,11 @@ formatters.setup({
 			"javascript",
 			"javascriptreact",
 			"javascript.jsx",
+			"css",
+			"svelte",
 		},
 	},
 	{ command = "black" },
 	{ command = "rustfmt" },
+	{ command = "rustywind" },
 })
